@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align=center>
 
-<!--
-**HacKairos/HacKairos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá meu nome é João Lucas
 
-Here are some ideas to get you started:
+Sou estudante de engenharia de software pela Universidade Nacional de Brasilia e de Big data e Inteligencia analítica pelo IESB.<br>
+Atualmente tenho 21 anos e moro no Distrito Federal.
+</div>
+<div align=center>
+  
+![Hackairos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hackairos&show_icons=true&theme=graywhite )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackairos&langs_count=8&theme=graywhite )](https://github.com/Hackairos/github-readme-stats)
+ 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center> 
+
+
+
+</div>
